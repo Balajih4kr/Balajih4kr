@@ -4,7 +4,7 @@
 
 
 <h2 align="left">Am Currently Doing ?🥷</h2>
-<img align="center" width="400px" src="https://media.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif">
+<img align="right" width="400px" src="https://media.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif">
 
 - Developing Tool for BinaryExplotation 🧌
 
