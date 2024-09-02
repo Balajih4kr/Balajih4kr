@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋 I'm BALAJI A (Balajih4kr)</h1>
 <h3 align="center">Am currently doing Cybersecurity as a Passion🪬</h3>
 <h4 align="center">🔭 Personal Portfolio(https:balaji.in.selfmade.fun/portfolio)</h4>
+<img align="right" width="600px" src="https://media.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif">
 
 <h2 align="left">Am Currently Doing ?🥷</h2>
-<img align="right" width="600px" src="https://media.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif">
+
 - Developing Tool for BinaryExplotation 🧌
 
 - ShellCode Developer 🧙
