@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 I'm BALAJI A (Balajih4kr)</h1>
 <h3 align="center">Am currently doing Cybersecurity as a Passion🪬</h3>
-<div><img align="right" width="300px" src="https://media.tenor.com/sz5kGMx6EmUAAAAM/hacker-putin.gif"></div>
+
 <h4 align="center">🔭 Personal Portfolio(https:balaji.in.selfmade.fun/portfolio)</h4>
+<div><img align="center" width="300px" src="https://media.tenor.com/sz5kGMx6EmUAAAAM/hacker-putin.gif"></div>
 
 
 
